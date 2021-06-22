@@ -3,7 +3,7 @@
 ## I'm Grace, a Data Science major student with Finance minor @ Drexel University
 ⚡ My interests:
 - Machine Learning, Business Analytics, and Cryptocurrency
-- I'm also passionate about in solving modern era's problems, combating challenges, and helping people using technology
+- I'm also passionate about solving modern era's problems, combating nowadays's challenges, and helping people using technology
 
 🔭 My experience:
 - Data Analytics and Visualization using Python, R, and SQL
