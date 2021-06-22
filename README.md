@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**grace-pham/grace-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Grace, a Data Science major student with Finance minor @ Drexel University
+⚡ My interests:
+- Machine Learning, Business Analytics, and Cryptocurrency
+- I'm also passionate about in solving modern era's problems, combating challenges, and helping people using technology
 
-Here are some ideas to get you started:
+🔭 My experience:
+- Data Analytics and Visualization using Python, R, and SQL
+- Machine Learning Models: K-Nearest Neighbor, Naive Bayes Classifier
+- Big Data Technologies: Spark and Hadoop with Google Cloud Platform and Databricks
+- Test Automation using Python, Selenium, and Behave
+- Business Analytics: Customer Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:
+- LinkedIn: [Grace Pham](https://www.linkedin.com/in/grace-pham-a591b9181/)
+- Email: ntp33@drexel.edu
+
+### Check out some of my Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning) <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
+
+### About my GitHub:
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=grace-pham&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" alt="grace-pham"/>
