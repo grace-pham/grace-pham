@@ -19,7 +19,9 @@
 ### Check out some of my Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning) <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
+<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
 
 ### About my GitHub:
