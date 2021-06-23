@@ -2,15 +2,15 @@
 
 ## I'm Grace, a Data Science major student with Finance minor @ Drexel University
 ⚡ My interests:
-- Machine Learning, Business Analytics, and Cryptocurrency
-- I'm also passionate about solving modern era's problems, combating nowadays's challenges, and helping people using technology
+- Data Analytics, Machine Learning, and Business Analytics
+- I'm also passionate about solving modern era's problems, combating challenges, and helping people using technology
 
 🔭 My experience:
 - Data Analytics and Visualization using Python, R, and SQL
 - Machine Learning Models: K-Nearest Neighbor, Naive Bayes Classifier
 - Big Data Technologies: Spark and Hadoop with Google Cloud Platform and Databricks
 - Test Automation using Python, Selenium, and Behave
-- Business Analytics: Customer Analytics
+- Business Analytics: Customer Analytics, Customer Profilling
 
 📫 Reach me:
 - LinkedIn: [Grace Pham](https://www.linkedin.com/in/grace-pham-a591b9181/)
