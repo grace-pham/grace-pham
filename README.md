@@ -18,7 +18,7 @@
 ### Check out some of my Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Predict-Cryptocurrency-Trading-with-Twitter-Data&show_owner=1)](https://github.com/grace-pham/Predict-Cryptocurrency-Trading-with-Twitter-Data)
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
