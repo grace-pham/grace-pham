@@ -24,4 +24,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Machine-Learning&show_owner=1)](https://github.com/grace-pham/Machine-Learning)
 
 ### About my GitHub:
-![Grace Pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-pham&count_private=true&show_icons=true&theme=cobalt)
+![Grace Pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-pham&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
