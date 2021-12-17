@@ -8,7 +8,7 @@
 🔭 My experiences:
 - Data Scraping, Analytics and Visualization (using Python and R) & Database Management (using SQL)
 - Business Analytics (Customer Analytics, Customer Profilling)
-- Machine Learning Models (K-Nearest Neighbor, Naive Bayes Classifier) and Big Data Technologies (Spark and Hadoop)
+- Machine Learning Models (K-Nearest Neighbor, Naive Bayes Classifier) and Big Data Technologies (using PySpark)
 - Test Automation (using Python, Selenium, and Behave)
 
 📫 Reach me via:
