@@ -17,7 +17,7 @@
 
 ### Check out some of my Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=TrainTravelCalculator&show_owner=0)](https://github.com/onekamila/TrainTravelCalculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onekamila&repo=TrainTravelCalculator&show_owner=0)](https://github.com/onekamila/TrainTravelCalculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Predict-Cryptocurrency-Trading-with-Twitter-Data&show_owner=1)](https://github.com/grace-pham/Predict-Cryptocurrency-Trading-with-Twitter-Data)
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Flight-Delay-Predictions&show_owner=1)](https://github.com/grace-pham/Flight-Delay-Predictions)
