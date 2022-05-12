@@ -21,6 +21,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Predict-Cryptocurrency-Trading-with-Twitter-Data&show_owner=1)](https://github.com/grace-pham/Predict-Cryptocurrency-Trading-with-Twitter-Data)
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Flight-Delay-Predictions&show_owner=1)](https://github.com/grace-pham/Flight-Delay-Predictions)
-
-### About my GitHub:
-![Grace Pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-pham&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
