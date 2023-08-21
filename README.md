@@ -15,6 +15,8 @@
 - LinkedIn: [Grace Pham](https://www.linkedin.com/in/grace-pham-a591b9181/)
 - Email: ntp33@drexel.edu
 
+### Check out my Data Analysis Portfolio at https://www.grace-pham-tech.com/flight-prediction
+
 ### Check out some of my Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grace-pham&repo=Flight-Delay-Predictions&show_owner=1)](https://github.com/grace-pham/Flight-Delay-Predictions)
