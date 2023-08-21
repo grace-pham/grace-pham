@@ -15,7 +15,7 @@
 - LinkedIn: [Grace Pham](https://www.linkedin.com/in/grace-pham-a591b9181/)
 - Email: ntp33@drexel.edu
 
-### Check out my Data Analysis Portfolio at https://www.grace-pham-tech.com/flight-prediction
+### Check out my Data Analysis Portfolio at [https://www.grace-pham-tech.com/](https://www.grace-pham-tech.com/)
 
 ### Check out some of my Projects:
 
