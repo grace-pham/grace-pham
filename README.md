@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Grace, a Data Science graduate with Finance minor @ Drexel University
+## I'm Grace, a Data Science graduate with Finance minor from Drexel University
 ⚡ My interests:
 - Data Analytics, Machine Learning, and Business Analytics
 - I'm also passionate about solving modern era's problems and helping people using technology
