@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Grace, a Data Science major student with Finance minor @ Drexel University
+## I'm Grace, a Data Science graduate with Finance minor @ Drexel University
 ⚡ My interests:
 - Data Analytics, Machine Learning, and Business Analytics
 - I'm also passionate about solving modern era's problems and helping people using technology
@@ -13,7 +13,7 @@
 
 📫 Reach me via:
 - LinkedIn: [Grace Pham](https://www.linkedin.com/in/grace-pham-a591b9181/)
-- Email: ntp33@drexel.edu
+- Email: gracepham208@gmail.com
 
 ### Check out some of my Projects:
 
